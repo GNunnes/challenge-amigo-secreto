@@ -24,7 +24,7 @@ JavaScript
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://link
 
 Abra o arquivo index.html em seu navegador.
 
