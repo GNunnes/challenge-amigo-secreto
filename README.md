@@ -24,7 +24,7 @@ JavaScript
 
 Clone este repositório:
 
-git clone https://link
+git clone https://gnunnes.github.io/challenge-amigo-secreto
 
 Abra o arquivo index.html em seu navegador.
 
