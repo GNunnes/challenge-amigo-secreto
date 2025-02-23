@@ -1,24 +1,21 @@
-## Amigo Secreto
+## <h1 align="center"> Amigo Secreto </h1><br>
 
-Este é um simples projeto em JavaScript para sortear um nome aleatório de uma lista de amigos. Ideal para brincadeiras de Amigo Secreto!
+<p align="center">
+Este é um simples projeto em JavaScript para sortear um nome aleatório de uma lista de amigos. <br>
+Ideal para brincadeiras de Amigo Secreto! <br><br>
+</p>
 
 ## 🚀 Funcionalidades
-
-Adicionar nomes à lista.
-
-Evitar nomes duplicados.
-
-Sortear um único nome aleatório da lista.
-
-Exibir o resultado do sorteio.
+Adicionar nomes à lista.<br>
+Evitar nomes duplicados.<br>
+Sortear um único nome aleatório da lista.<br>
+Exibir o resultado do sorteio.<br><br>
 
 ## 🛠 Tecnologias Utilizadas
 
-HTML
-
-CSS
-
-JavaScript
+* HTML
+* CSS
+* JavaScript<br><br>
 
 ## 📌 Como Usar
 
