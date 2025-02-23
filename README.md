@@ -27,6 +27,6 @@ Abra o arquivo index.html em seu navegador.
 
 Digite os nomes e clique em "Adicionar".
 
-Clique em "Sortear amigo" para escolher um nome aleatório.
+Clique em "Sortear amigo" para escolher um nome aleatório. 
 
 
